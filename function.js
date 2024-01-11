@@ -1,4 +1,4 @@
-const accessKey = 'UMLdXRoV90m30YFNw7mqrjEEYingBVy7nsFF9bPEqj4';
+const accessKey = '';
 
 const form = document.querySelector('mainForm');
 const input = document.querySelector('search');
